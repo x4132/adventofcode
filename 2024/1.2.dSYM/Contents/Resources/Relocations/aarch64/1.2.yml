@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/msvc/Documents/code/adventofcode/2024/1.2'
+relocations:     []
+...
